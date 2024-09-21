@@ -1,0 +1,33 @@
+html, body{
+    height: 100%;
+    width:100%;
+}
+.button{
+    padding:20px;
+    margin:0 3px;
+    border:none;
+    border-radius: 9px;
+    cursor:pointer;
+    width:66px;
+    background-color: rgb(126, 126, 126);
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+}
+.row{
+    margin:8px 0;
+}
+.row input{
+    width:280px;
+    font-size: 20px;
+    margin:0;
+    padding:10px 10px;
+    border: none;
+    background-color: rgb(112, 112, 112);
+    border-radius: 5px;
+    color: white;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+}
